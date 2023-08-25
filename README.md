@@ -1,4 +1,4 @@
-# netflix-and-chilli
+# [netflix-and-chilli](https://netflixandchilli-phil.netlify.com/) 
 ![](netflicandchilli.gif)
 
 Find Information and Ratings for current movies in the Theatre.
